@@ -1,0 +1,11 @@
+﻿  UT3.3C.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(88,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(89,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(107,9): warning C4244: 'initializing': conversion from 'double' to 'long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(108,18): warning C4244: 'initializing': conversion from 'double' to 'unsigned long', possible loss of data
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(202): warning C4715: 'Money::operator>': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(227): warning C4715: 'Money::operator<': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(289): warning C4715: 'Money::operator<=': not all control paths return a value
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\PR3.3C\Money.cpp(258): warning C4715: 'Money::operator>=': not all control paths return a value
+     Creating library D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\Debug\UT3.3C.lib and object D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\Debug\UT3.3C.exp
+  UT3.3C.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR3.3C\Debug\UT3.3C.dll
